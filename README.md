@@ -1,2 +1,2 @@
 # linux-jenkins-update
-Bash script to update Jenkins into linux server
+BASH SCRIPT TO UPDATE JENKINS INTO LINUX SERVER
